@@ -2,7 +2,7 @@
 
 ## welcome! 👋
 
-i'm a data scientist who enjoys building innovative projects and contributing to open-source
+i'm a data scientist who enjoys building innovative projects and contributing to the open-source community
 
 ## 🚀 technologies I work with:
 - 💻 Python, JavaScript
