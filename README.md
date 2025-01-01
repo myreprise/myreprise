@@ -1,4 +1,4 @@
-![Header Image](https://github.com/myreprise/myreprise/blob/main/dscover.jpg)
+![Header Image](https://github.com/myreprise/myreprise/blob/main/ds_cover.jpg)
 
 ## welcome! 👋
 
