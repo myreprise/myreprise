@@ -1,6 +1,6 @@
 ![Header Image](https://github.com/myreprise/myreprise/blob/main/ds_cover.jpg)
 
-## welcome! 👋
+## hi there, i'm bb lill! 👋
 
 i'm a data scientist who enjoys building innovative projects and contributing to the open-source community
 
