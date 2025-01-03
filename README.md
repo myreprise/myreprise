@@ -1,4 +1,4 @@
-![Header Image](https://github.com/myreprise/myreprise/blob/main/Sunshine (2007) rmwbb23opold1.jpg)
+![Header Image](https://github.com/myreprise/myreprise/blob/main/Sunshine_rmwbb23opold1.jpg)
 
 ## hi there, i'm bb lill! 👋
 
