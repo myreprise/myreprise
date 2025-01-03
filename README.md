@@ -11,5 +11,5 @@ i'm a data scientist who enjoys building innovative projects and contributing to
 
 ## 📫 contact me:
 - email: brettlill@gmail.com
-- linkedIn: [linkedIn](https://www.linkedin.com/in/bblill/)
+- linkedIn: [linkedin](https://www.linkedin.com/in/bblill/)
 - bluesky: [@bblill](https://bsky.app/profile/bblill.bsky.social)
